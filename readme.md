@@ -4,6 +4,8 @@ Desafio do Chapter #2 proposto no Bootcamp de Cypress ministrado pelo @samlucax
 
 Consiste em validar o cadastro no <http://automationpractice.com> através do uso de rotas e utilizando o padrão Page Objects
 
+![all-passed](https://github.com/mhanelia/desafio2-n2/blob/master/doc/allPassed.png)
+
 ## Ferramentas utilizadas
 
 [Node.js](https://nodejs.org/)
