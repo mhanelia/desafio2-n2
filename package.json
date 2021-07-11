@@ -1,0 +1,27 @@
+{
+  "name": "desafio2-n2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run:electron": "npx cypress run",
+    "cy:run:chrome": "npx cypress run --browser chrome --headless",
+    "cy:run:firefox": "npx cypress run --browser firefox --headless",
+    "cy:run:edge": "npx cypress run --browser edge --headless"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhanelia/desafio2-n2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhanelia/desafio2-n2/issues"
+  },
+  "homepage": "https://github.com/mhanelia/desafio2-n2#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "faker": "^5.5.3"
+  }
+}
